@@ -1,8 +1,8 @@
 class MyStreamdeck < Formula
   desc "Menu bar controller for an Elgato Stream Deck"
   homepage "https://github.com/scryner/my-streamdeck"
-  url "https://github.com/scryner/my-streamdeck/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "65806fe00c95f07973e6a0e9befcd883515cdacb93d2fcbe2b117c3ce013df3a"
+  url "https://github.com/scryner/my-streamdeck/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "56108e4d12cab99734a59dae1dd1f6db59c26c4b87db80f44bd60ba98081a0f9"
   license "MIT"
   head "https://github.com/scryner/my-streamdeck.git", branch: "main"
 
